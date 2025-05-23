@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/
+*.wav
+*.mp3
+.env
+*.ipynb_checkpoints
